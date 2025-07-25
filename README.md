@@ -25,7 +25,7 @@ Para este trabajo, se implementó una arquitectura Big Data distribuida, aprovec
 
 ## 💻 Tecnologías y Librerías Utilizadas
 
-* **Apache Cassandra**: Base de datos NoSQL distribuida [cite: 5][cite_start], utilizada como fuente y destino de los datos.
+* **Apache Cassandra**: Base de datos NoSQL distribuida, utilizada como fuente y destino de los datos.
 * **DataStax**: Base de datos en la nube  (Astra) para el almacenamiento de datos limpios en la "zona Universal".
 * **Apache Spark**: Motor de procesamiento distribuido.
 * **PySpark**: Interfaz Python para Apache Spark.
